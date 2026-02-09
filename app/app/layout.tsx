@@ -21,7 +21,7 @@ export default function RootLayout({
                     <span className="text-white text-xl">🛠</span>
                   </div>
                   <h1 className="font-bold text-xl bg-linear-to-r from-gray-900 to-gray-700 bg-clip-text text-transparent">
-                    AI Support Hub
+                    Support Hub
                   </h1>
                 </Link>
 
@@ -51,7 +51,7 @@ export default function RootLayout({
           <footer className="bg-white border-t border-gray-200 mt-auto">
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
               <p className="text-center text-sm text-gray-500">
-                © 2024 AI Support Hub. Powered by AI assistance.
+                © 2026 Romzi Farhan Ghozi.
               </p>
             </div>
           </footer>
